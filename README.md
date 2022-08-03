@@ -20,7 +20,7 @@ Business Acitivities
 ####
 Landscape 
 * PayPal is a financial services industry domain. 
-*Since PayPal was inception in 1998, the way people send and receive money has been revolutionized. The company has over 426 million active users in 202 countries in regions. the company has also processed an estimated $282 billion in payments since 2019. It is indeed the go to payment method for most online shoppers and has also been adopted by many brick and mortar businesses as a payment method. This company has made a profound impact on both small and large businesses, by providing a simple, secure, and more convenient where to send and receive payment.
+* Since PayPal was inception in 1998, the way people send and receive money has been revolutionized. The company has over 426 million active users in 202 countries in regions. the company has also processed an estimated $282 billion in payments since 2019. It is indeed the go to payment method for most online shoppers and has also been adopted by many brick and mortar businesses as a payment method. This company has made a profound impact on both small and large businesses, by providing a simple, secure, and more convenient where to send and receive payment.
 * Financial services industry companies in PayPal domain inculde Clover Network, Bild, Checkout.com, BilGo, Bigcommerce, Affinipay, Circle, Remitly, Braintree and many other mentioned above.
 
 #####
