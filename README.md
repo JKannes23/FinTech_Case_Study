@@ -40,6 +40,11 @@ This system can track inventory levels and help to ensure that items are always 
 The technology is appropriate for the solution because it is a simple and effective way to manage inventory. This system can track inventory levels and help to ensure that items are always in stock. Additionally, the system can provide alerts when items need to be reordered. It can help to streamline the inventory management process and save time. This system can also help to reduce the amount of waste and improve overall efficiency. 
 Additionally, this system can help to improve customer satisfaction by ensuring that items are always available.
 
+#######
+Reference
+* P. (2022, May 5). Paypal Holdings Inc: the big problem with the fintech company. Proactiveinvestors NA. https://www.proactiveinvestors.com/companies/news/981482/paypal-holdings-inc-the-big-problem-with-the-fintech-company-981482.html
+* 17+ Impressive PayPal Statistics to Pay Attention to in 2022. (2022, April 6). WebTribunal. https://webtribunal.net/blog/paypal-statistics/#gref
+* PayPal (PYPL) - Market capitalization. (2022, July 5). Market Cap. Retrieved August 3, 2022, from https://companiesmarketcap.com/paypal/marketcap/
 * 
 
 
