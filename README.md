@@ -45,7 +45,9 @@ Reference
 * P. (2022, May 5). Paypal Holdings Inc: the big problem with the fintech company. Proactiveinvestors NA. https://www.proactiveinvestors.com/companies/news/981482/paypal-holdings-inc-the-big-problem-with-the-fintech-company-981482.html
 * 17+ Impressive PayPal Statistics to Pay Attention to in 2022. (2022, April 6). WebTribunal. https://webtribunal.net/blog/paypal-statistics/#gref
 * PayPal (PYPL) - Market capitalization. (2022, July 5). Market Cap. Retrieved August 3, 2022, from https://companiesmarketcap.com/paypal/marketcap/
-* 
+* Contributor                                        Naeem Aslam, N. A. (2021, November 8). PayPal's market cap is almost double Goldman Sachs; why wall street needs to pay attention. Nasdaq. Retrieved August 4, 2022, from https://www.nasdaq.com/articles/paypals-market-cap-is-almost-double-goldman-sachs-why-wall-street-needs-to-pay-attention 
+* Plc, G. D. (n.d.). Total payment volume on PayPal: Global (Q3 2015 – Q1 2022). GlobalData. Retrieved August 4, 2022, from https://www.globaldata.com/data-insights/cards-amp-payments-financial-services/total-payment-volume-on-paypal-global/ 
+* Schroer, A., Strategist, S. E. O. C., &amp; Alyssa Shcroer is a Built In SEO content strategist who formerly covered tech companies and emerging trends for BuiltIn.com. She holds a bachelor’s degree in communications studies from the University of Iowa. (n.d.). 36 top fintech payment processing companies. Built In. Retrieved August 4, 2022, from https://builtin.com/fintech/fintech-payments-companies-examples 
 
 
 
