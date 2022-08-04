@@ -25,7 +25,26 @@ Landscape
 
 #####
 Results 
+* I like that PayPal impact has been significant in the business world. the company has visualized the way people send and receive money worldwide. The company has made it possible for individuals to be able to make purchases online without disclosing their credit card information I think that to the merchant. making it easier for businesses to accept payments from yeah customers without having to set-up accounts. Businesses can enjoy lower cost when they use PayPal network exactly to process transactions. this has enabled businesses reduce the credit card processing cost by 1%. This business can also upgrade and enjoy services provided by PayPal such as fraud protection insurance coverage, Technical Support, chargeback protection. They can take advantage of the PayPal’s purchase protection program.  
+* There are a few core metrics that companies in the same domain as PayPal use in measuring their success. Metrics such as number of transactions, number of users, and the total value of transactions done by active users. If we're going by this metrics, we can see that PayPal has been performing well as compared to its peers.  In the first quarter of 2022 PayPal has processed $5.61billion transactions, with over 429 active users. Overall, PayPal has been performing very well based on the metrics used to measure success in the payment industry. 
+* When compared to its competitors in the payment industry, PayPal is a strong performer. The company has a large customer base and has continued to grow over the years. the company has an advantage over its competitors because it offers lower transaction fees and is also more convenient for users. The company also has a buyer protection service, which gives PayPal an edge over its competitors. 
+
+######
+Recommendations
+* I will recommend for PayPal to offer products and services that allows for its users to make in store purchases with their PayPal account. This will be beneficial and convenient for both PayPal and its users. Hereby, creating a much larger presence for the company globally.
+* This will benefit PayPal by creating a larger presence in the physical world. PayPal will be tapping into a new market, this will be a new revenue stream for the PayPal. It will also establish itself as a trusted brand, here by increasing loyalty among its users.
+* PayPal will still be utilizing thesame technology as there original product or service. changing it could mean losing access to this technology. The technology is integral to PayPal products and services, so changing this technology will essentially mean changing their original product and services. PayPal’s current technology is the reason why their products and services I able to function. 
+* The technology is appropriate for the solution because it is a simple and effective way to manage inventory. This system can track inventory levels and help to ensure that items are always in stock. 
+Additionally, the system can provide alerts when items need to be reordered. This can help to streamline the inventory management process and save time. The technology is appropriate for the solution because it is a simple and effective way to manage inventory. 
+This system can track inventory levels and help to ensure that items are always in stock. Additionally, the system can provide alerts when items need to be reordered. This can help to streamline the inventory management process and save time. This system can also help to reduce the amount of waste and improve overall efficiency. 
+The technology is appropriate for the solution because it is a simple and effective way to manage inventory. This system can track inventory levels and help to ensure that items are always in stock. Additionally, the system can provide alerts when items need to be reordered. It can help to streamline the inventory management process and save time. This system can also help to reduce the amount of waste and improve overall efficiency. 
+Additionally, this system can help to improve customer satisfaction by ensuring that items are always available.
+
 * 
+
+
+
+
 
 
 
